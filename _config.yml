@@ -14,7 +14,7 @@ plugins:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
   - jekyll-remote-theme # add this line to the plugins list if you already have one
-
+  
 # Exclude these files from your production _site
 exclude:
   - Gemfile
@@ -23,4 +23,4 @@ exclude:
   - README.md
   - CNAME
 
-remote_theme: pages-themes/midnight@v0.2.0
+remote_theme: pages-themes/tactile@v0.2.0
