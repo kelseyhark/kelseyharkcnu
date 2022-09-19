@@ -2,7 +2,7 @@
 
 **Project Director:** Courtney Sato
 
-**Project URL:** https://outofthedesert.yale.edu/ 
+**Project URL:** [https://outofthedesert.yale.edu/](https://outofthedesert.yale.edu/)
 
 # Summary:
  
