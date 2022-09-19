@@ -21,7 +21,7 @@ Finally, the site provides a terms of use regarding the materials used and purpo
 # Findings:
 When you first click onto the site it pops up with directors to explore the map and a button which will lead the reader to find out more information about Executive Order 9066. I think by having the small pop up about directions is helpful to those who may not understand the technology and interactive intentions behind digital humanities sites. 
  
-![Home Page](https://kelseyhark.github.io/kelseyharkcnu/images/homepage.png)
+![Home Page](https://kelseyhark.github.io/kelseyharkcnu/images/homepage.PNG)
 Initial home page found when you first enter the site.
  
 Out of Desert does a great job explaining the history behind Executive Order 9066 and internment to users through interactive slides. It also does well at exploring pictures, videos, letters, and artwork from that time in a user-friendly format and visually appealing. The videos and pictures lack transcripts and subtitles, making them not accessible to readers.
