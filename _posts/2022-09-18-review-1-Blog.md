@@ -1,6 +1,8 @@
 **Project:** Out of Desert 
+
 **Project Director:** Courtney Sato
-**Projet URL:** https://outofthedesert.yale.edu/ 
+
+**Project URL:** https://outofthedesert.yale.edu/ 
 
 # Summary:
  
