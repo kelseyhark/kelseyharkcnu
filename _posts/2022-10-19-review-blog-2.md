@@ -4,7 +4,7 @@
 
 **Project URL:** http://www.artistsinparis.org 
 
-![Image of the initial map in Artists in Paris](https://kelseyhark.github.io/kelseyharkcnu/images/homescreen.PNG)
+![Home Screen](https://kelseyhark.github.io/kelseyharkcnu/images/homescreen.png)
 
 # Summary:
 Artists in Paris is a mapping project of artists in Paris during the late 17th century into the 18th century. Paris is home to many renowned artistic communities, especially during the early centuries, therefore this project provides information about these communities during the 18th century. 
@@ -22,7 +22,7 @@ When looking for information about each artist, the website provides brief infor
 
 # Findings:
 When you first open up the web page a pop-up screen appears which provides users with information about the creators and premise of the website, an open-access digital art history project. I like how the pop-up has an option at the bottom for the user to click “Don’t Show This Again” because if users are frequenting the site, the pop-up could get annoying to see and click off every time. 
-![Pop-up image](https://kelseyhark.github.io/kelseyharkcnu/images/popup.PNG)
+![Pop-up image](https://kelseyhark.github.io/kelseyharkcnu/images/popup.png)
 
 When looking into the artists included in this map, I think it would have been beneficial to include more artists instead of just ones who attended the French Royal Academy of Painting and Sculpture. If they solely chose to include those artists and did not want to find others, the project could be renamed to fit that description instead of just calling it Artists in Paris and generalizing it to all artists.  
 When doing the initial reading into the site and how it is an open-access site, where users can add to the map, I was worried about how that could work with making sure all the information was accurate. However, after further investigation, the spot where users can add addresses and information in themselves to aid them in their own research, therefore it is not made public. This is done through having each users map view have a unique, shareable URL address that loads the map area, addresses, and popups selected. The site can be completely customizable to each user.
