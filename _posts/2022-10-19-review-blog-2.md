@@ -7,7 +7,7 @@
 ![Homescreen of site](https://kelseyhark.github.io/kelseyharkcnu/images/homescreen.png)
 
 # Summary:
-_Artists in Paris_ is a mapping project of artists in Paris during the late 17th century into the 18th century. Paris is home to many renowned artistic communities, therefore this project provides information about those communities during this time period. Due to the difficulty of finding information from so long ago, this project highlights artists who were all members of the French Royal Academy of Painting and Sculpture. The site is designed to give users an interactive way to learn and research about art during the mid to late 1600s to 1700s.
+_Artists in Paris_ is a mapping project of artists in Paris during the late 17th century into the 18th century. Paris is home to many renowned artistic communities, therefore this project provides information about those communities during this time period. Due to the difficulty of finding information from so long ago, this project highlights artists who were all members of the French Royal Academy of Painting and Sculpture. The site is designed to give users an interactive way to learn and research about art and artists during the mid to late 1600s to 1700s.
 
 # Credit:
 _Artists in Paris_ was funded by the Leverhulme Trust Early Career Research Fellowship which was awarded to the project creator Hannah Williams and Chris Sparks through Queen Mary University of London. Queen Mary University of London provided additional support in research for the project which was funded by a grant from the University of Oxford’s John Fell Fund.
