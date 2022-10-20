@@ -2,7 +2,7 @@
 
 **Project Director:** Dr. Hannah Williams and Dr. Chris Sparks
 
-**Project URL:** http://www.artistsinparis.org (http://www.artistsinparis.org)
+**Project URL:** [http://www.artistsinparis.org](http://www.artistsinparis.org)
 
 ![Homescreen of site](https://kelseyhark.github.io/kelseyharkcnu/images/homescreen.png)
 
