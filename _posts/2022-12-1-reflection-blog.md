@@ -13,7 +13,7 @@ Through the many readings we did I learned a lot about digital humanities, but a
 
 When beginning the writing process for the blog posts I struggled with understanding how to break up the information into small paragraphs rather than having just a few longer paragraphs. I struggled with this a lot because I am used to writing long paragraphs about one subject in all of my academic classes. I have come to really enjoy writing like this though because it allows so many thoughts to be brought out without feeling repetitive. 
 
-One of the assignments that I enjoyed the most was the blog posts on Github. As a writing intensive I was expecting many papers, however I enjoyed getting to write smaller pieces through a blog medium. Getting to post on the blog and work with the code aspects made me look forward to the writing assignments more because I was able to be creative with how my blog looked through markdown. I struggled at first to understand markdown, but with the help of Dr. Stover and classmates it was easy to pick-up and continue with throughout the semester. 
+One assignment that I enjoyed most was the blog posts on Github. As a writing intensive I was expecting many papers, however I enjoyed getting to write smaller pieces through a blog medium. Getting to post on the blog and work with the code aspects made me look forward to the writing assignments more because I was able to be creative with how my blog looked through markdown. I struggled at first to understand markdown, but with the help of Dr. Stover and classmates it was easy to pick-up and continue with throughout the semester. 
 
 ![Review Blog Screenshot](https://kelseyhark.github.io/kelseyharkcnu/images/blogpost.png)
 
