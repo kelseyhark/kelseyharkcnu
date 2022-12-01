@@ -2,6 +2,8 @@
 
 After taking this course, my understanding of digital humanities has completely changed. Coming into this class, I was not completely sure what digital humanities was but I had thought it was just the online version of the humanities discipline such as art or philosophy. I quickly learned that digital humanities is that but also making the humanities more interactive and accessible through the digital medium. While I still do not have a full definition of DH because it can be so many different things I learned so much about the field through the course. 
 
+![Twitter Screenshot](https://kelseyhark.github.io/kelseyharkcnu/images/twitter.png)
+
 One thing I really enjoyed about this course was the twitter assignment every week. While sometimes it was difficult to do when we had no readings one week, I enjoyed it because it allowed me to reflect on readings, projects, and the class. It gave me a direct way to interact with my classmates who I do not usually interact with while in class. Twitter also allowed me to look at different perspectives regarding the readings and projects we were doing. 
 
 Through the many readings we did I learned a lot about digital humanities, but also about writing. I have always enjoyed writing but through this class I learned a new style of writing, grant writing. In addition to grant writing, I began to understand that there is writing beyond a 5-paragraph academic essay which I am so used to. With that, I became so familiar with writing in short paragraphs that when I went to write papers for other classes I found myself struggling a little bit with going back to writing in what I think of as typical paper writing. 
