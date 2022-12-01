@@ -12,6 +12,8 @@ When beginning the writing process for the blog posts I struggled with understan
 
 One of the assignments that I enjoyed the most was the blog posts on Github. As a writing intensive I was expecting many papers, however I enjoyed getting to write smaller pieces through a blog medium. Getting to post on the blog and work with the code aspects made me look forward to the writing assignments more because I was able to be creative with how my blog looked through markdown. I struggled at first to understand markdown, but with the help of Dr. Stover and classmates it was easy to pick-up and continue with throughout the semester. 
 
+![Review Blog Screenshot](https://kelseyhark.github.io/kelseyharkcnu/images/blogpost.png)
+
 Regarding the actual content we wrote about in the blog posts, I found myself enjoying doing the DH project reviews. I am a visual and hands-on learner, so being able to interact with different sites helped me to further understand what digital humanities is. Not to mention, doing the review blogs gave me much inspiration when it came to choosing a topic to write my grant about and when we created mock-ups. Additionally, I am also in Introduction to Digital Humanities, so completing these reviews helped me to further my DH understanding and bring different perspectives to my introduction to DH class and projects. 
 
 Overall, this has been one of my favorite classes this semester because it was so different from my other classes. This class was very project based which is something I really enjoyed because it allowed me to be creative and didn’t feel like I had to memorize random facts. 
