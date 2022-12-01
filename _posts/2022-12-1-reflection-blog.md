@@ -1,7 +1,9 @@
 ### **Reflection Blog**
 
 
-After taking this course, my understanding of digital humanities has completely changed. Coming into this class, I was not completely sure what digital humanities was but I had thought it was just the online version of the humanities discipline such as art or philosophy. I quickly learned that digital humanities is that but also making the humanities more interactive and accessible through the digital medium. While I still do not have a full definition of DH because it can be so many different things I learned so much about the field through the course. 
+After taking this course, my understanding of digital humanities has completely changed. Coming into this class, I was not completely sure what digital humanities was but I had thought it was just the online version of the humanities discipline such as art or philosophy. 
+
+I quickly learned that digital humanities is that but also making the humanities more interactive and accessible through the digital medium. While I still do not have a full definition of DH because it can be so many different things I learned so much about the field through the course. 
 
 ![Twitter Screenshot](https://kelseyhark.github.io/kelseyharkcnu/images/tweet.png)
 
